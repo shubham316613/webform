@@ -1,0 +1,9 @@
+install node,express,mongoose,nodemon using following cmds 
+npm init (installs node)
+node install express mongoose nodemon
+express gives us frontend js, mongoose installs the all mongodb connectivity requirements, nodemon helps to refresh the running node app automatically once changes are made so that you don't need to refresh node app manually using node index.js cmd.
+
+
+define const express, path 
+define express app 
+define on which port app will listen and write log message for which message server should display if it's connected successfully or not.
